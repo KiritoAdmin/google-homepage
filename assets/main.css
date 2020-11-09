@@ -1,0 +1,90 @@
+.main {
+    position: absolute;
+    top: 22%;
+    left: 44%;
+}
+
+.header {
+    position: absolute;
+    right: 1%;
+    margin: 13px;
+    font: 13px Verdana, sans-serif;
+    height: 30px;
+    width: 257;
+}
+.header a {
+    text-decoration: none;
+    color: black !important;
+    letter-spacing: 0.1px;
+    padding: 5px;
+}
+.header img {
+    position: relative;
+    margin-bottom: -10px;
+    margin-left: 4px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.back-url {
+    border-width: 1px;
+    border-radius: 30px;
+    outline: none;
+    width: 582px;
+    height: 45px;
+    margin-left: -150px;
+    margin-top: 30px;
+    font: 16px arial,sans-serif;
+    position: absolute;
+}
+.button1 {
+    position: relative;
+    top: 100px;
+    border: none;
+    padding: 13px;
+    outline-color: blue;
+    outline-width: 1px;
+    cursor: pointer;
+}
+.button2 {
+    position: relative;
+    top: 100px;
+    border: none;
+    padding: 13px;
+    outline-color: blue;
+    outline-width: 1px;
+    cursor: pointer;
+    margin-left: 12px;
+}
+.footer {
+    background-color: #F2F2F2;
+    color: gray;
+    font: 15px arial, sans-serif;
+    position: fixed;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+}
+
+.footer p {
+    margin-left: 30px;
+    color: gray;
+}
+
+a {
+    text-decoration: none;
+    color: gray !important;
+}
+
+a:hover { 
+    text-decoration: underline;
+   }
+button:hover{
+    border: 1px solid black;
+}
+.footer2 {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    margin-right: 30px;
+    margin-bottom: 15px;
+}
